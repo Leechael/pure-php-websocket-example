@@ -1,0 +1,21 @@
+{
+    "name": "leechael/pure-php-websocket-example",
+    "description": "Minimal WebSocket Server example in PHP",
+    "license": "BSD License",
+    "authors": [
+        {
+            "name": "Leechael Yim",
+            "email": "yanleech@gmail.com"
+        }
+    ],
+    "repositories": [
+        {"type": "composer", "url": "http://pkg.phpcomposer.com/repo/packagist/"},
+        {"packagist": false}
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "ext-event": "*",
+        "predis/predis-async": "dev-master",
+        "cboden/Ratchet": "0.3.2"
+    }
+}

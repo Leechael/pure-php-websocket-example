@@ -1,0 +1,14 @@
+{
+  "name": "pure-php-websocket-example",
+  "version": "1.0.0",
+  "description": "This example show up how to setup a WebSocket with pure PHP, with minimal codes and dependencies, with:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wscat": "^1.0.0"
+  }
+}
